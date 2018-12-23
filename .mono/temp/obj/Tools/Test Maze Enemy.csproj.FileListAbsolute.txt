@@ -4,3 +4,9 @@ C:\Users\Nathan - User\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test 
 C:\Users\Nathan - User\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.csproj.CoreCompileInputs.cache
 C:\Users\Nathan - User\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.dll
 C:\Users\Nathan - User\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.pdb
+D:\OneDrive\Godot\Test Maze Enemy\.mono\temp\bin\Tools\Test Maze Enemy.dll
+D:\OneDrive\Godot\Test Maze Enemy\.mono\temp\bin\Tools\Test Maze Enemy.pdb
+D:\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.csprojAssemblyReference.cache
+D:\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.dll
+D:\OneDrive\Godot\Test Maze Enemy\.mono\temp\obj\Tools\Test Maze Enemy.pdb

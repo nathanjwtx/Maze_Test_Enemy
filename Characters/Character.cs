@@ -10,6 +10,7 @@ public class Character : Area2D
     protected bool CanMove = true;
     protected string Facing = "right";
     private Tween _moveTween;
+    public int _speed;
 
     public Dictionary<string, Vector2> _moves = new Dictionary<string, Vector2>
     {
@@ -41,6 +42,7 @@ public class Character : Area2D
     {
         AnimationPlayer _player;
         _player = GetNode<AnimationPlayer>("AnimationPlayer");
+//        _player.PlaybackSpeed = _speed;
         _player.PlaybackSpeed = Speed;
         Facing = dir;
         if (Raycasts[Facing].IsColliding())

@@ -1,6 +1,7 @@
 using Godot;
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 public class Enemy : Character
 {
@@ -22,6 +23,7 @@ public class Enemy : Character
 
         Facing = _moveKeys[_random1.Next(0, _moveKeys.Count)];
         _spawn.Start();
+
     }
 
     // move this code to regular method then link to a player emiited signal for turn-based goodness
@@ -29,7 +31,7 @@ public class Enemy : Character
     {
         if (CanMove)
         {
-            // might need to adjust the random ocurence of direction changing
+            // might need to adjust the random occurence of direction changing
             if (Move(Facing) == false || _random1.Next(0, 11) > 5)
             {
                 Facing = _moveKeys[_random1.Next(0, 4)];
